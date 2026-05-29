@@ -1,83 +1,40 @@
 <!--
 **Danitrujillo-dev/Danitrujillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-```html
 <!-- CONTADOR SUPERIOR -->
-<img width="1920" height="799" alt="Image" src="https://github.com/user-attachments/assets/963b5e52-16af-4a89-8c2f-a967ec3ec6e5" />
+<img width="1920" height="799" alt="Image" src="https://github.com/user-attachments/assets/963b5e52-16af-4a89-8c2f-a967ec3ec6e5" /> <br>
 
-<div align="left" style="background-color: #2D4359; border: 2px solid red;">
-  <div align="center">
-    <img width="30" height="30" src="https://github.com/user-attachments/assets/152c6853-dfc9-4f24-b219-b1713318a074" />
-    Hola
-  </div>
-  
-<table align="center" bgcolor="#2D4359" frame="box" rules="none" border="2">
+<table bgcolor="#2D4359" frame="box" rules="none" border="1">
   <tr>
     <td align="center" valign="middle">
-      <img width="30" height="30" src="https://github.com/user-attachments/assets/152c6853-dfc9-4f24-b219-b1713318a074" align="absmiddle" />
-      <b>Repositories</b>
-      
-![Repositories](https://github-readme-stats.vercel.app/api?username=Danitrujillo-dev&show_icons=true&theme=tokyonight&hide_border=true)]
-      
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Danitrujillo-dev&show_icons=true&theme=tokyonight)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danitrujillo-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+      <img width="25" height="25" src="https://github.com/user-attachments/assets/152c6853-dfc9-4f24-b219-b1713318a074" align="absmiddle" />
+      <b>Repositories   1</b>
     </td>
     <td align="center" valign="middle">
-      <img width="30" height="30" src="https://github.com/user-attachments/assets/152c6853-dfc9-4f24-b219-b1713318a074"  align="absmiddle" />
-      <b>Projects</b>
+      <img width="25" height="23" src="https://github.com/user-attachments/assets/aa32c96b-c3db-43a7-819b-3239881f7950" align="absmiddle" />
+      <b>Projects   0</b>
+    </td>
+    <td align="center" valign="middle">
+      <img width="32" height="23" src="https://github.com/user-attachments/assets/775260ee-a942-4d50-817e-e92ad481e1c5" align="absmiddle" />
+      <b>Followers   0</b>
+    </td>
+    <td align="center" valign="middle">
+      <img width="25" height="23" src="https://github.com/user-attachments/assets/167beaf6-81fd-459f-ac57-2dfb632fc07e" align="absmiddle" />
+      <b>Following   0</b>
     </td>
   </tr>
 </table>
-  
-  
 
-<table width="100%">
-<tr>
+---
 
-<td align="center">
-
-<img src="images/tu-icono.svg" alt="icono" width="24" height="24">
-<p align="center">
-  <!-- Carga de la hoja de estilos de Font Awesome -->
-  <link rel="stylesheet" href="https://fontawesome.com">
-
-  <!-- Uso de tus iconos -->
-  <i class="fa-solid fa-code" style="color: #3178C6; font-size: 24px;"></i>
-  <i class="fa-brands fa-github" style="color: #000000; font-size: 24px;"></i>
-  <i class="fa-light fa-book-open" style="color: rgb(177, 151, 252);"></i>
-  
-</p>
-<!--
-Source - https://stackoverflow.com/a/63914025
-Posted by Abraham, modified by community. See post 'Timeline' for change history
-Retrieved 2026-05-28, License - CC BY-SA 4.0
--->
-
-<img src="fa-crown.svg" width="50" height="50">
-<i class="fa-solid fa-book-open"></i>
-
-  
-| 📁 Repositories | 🚀 Projects | 👥 Followers | 💫 Following |
-|---|---|---|---|
-| **42** | **6** | **156** | **72** |
-
-</td>
-
-</tr>
-</table>
-</div>
-<hr>
-<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="1px" width="100%">
 
 <!-- SECCIONES -->
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 <h2>
 💜 Sobre mí
@@ -106,9 +63,13 @@ Retrieved 2026-05-28, License - CC BY-SA 4.0
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 
 <br>
+<table> <tr> <td> <img src="https://skillicons.dev/icons?i=react" height="50"/> </td> </tr> </table>
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://github.com/user-attachments/assets/4c178a68-d302-418b-8fac-2986ae5bd88c" height="50"/>
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
 
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
@@ -127,6 +88,15 @@ Retrieved 2026-05-28, License - CC BY-SA 4.0
 </table>
 ```
 
+<!--   
+<p align="center">
+<img src="https://img.shields.io/badge/Repositories-3-8A2BE2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Projects-6-FF69B4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/👥_Followers-12-9370DB?style=for-the-badge"/>
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danitrujillo-dev&show_icons=true&theme=tokyonight&hide_border=true)
+-->
 
 Here are some ideas to get you started:
 
