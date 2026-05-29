@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="1920" height="799" alt="Image" src="https://github.com/user-attachments/assets/963b5e52-16af-4a89-8c2f-a967ec3ec6e5" />
 <!--
 **Danitrujillo-dev/Danitrujillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
