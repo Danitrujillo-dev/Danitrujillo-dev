@@ -26,67 +26,51 @@
 </table>
 
 ---
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="1px" width="100%">
+<h2> </h2>
 
 <!-- SECCIONES -->
-
 <table width="100%" border="0">
-<tr>
-
-<td width="50%" valign="top" style="border: none;">
-
-<h2>
-💜 Sobre mí
-</h2>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-
-<br>
-
-💻 Frontend Developer apasionada por crear interfaces lindas y funcionales.
-
-🎨 Me encanta combinar diseño UI/UX con programación.
-
-🧶 También amo el crochet, las manualidades y los proyectos creativos.
-
-🚀 Actualmente aprendiendo React Native y Next.js.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>
-&lt;/&gt; Tecnologías favoritas
-</h2>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-
-<br>
-<table> <tr> <td> <img src="https://skillicons.dev/icons?i=react" height="50"/> </td> </tr> </table>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://github.com/user-attachments/assets/4c178a68-d302-418b-8fac-2986ae5bd88c" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=ts" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
-
-</p>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none;"  valign="middle">
+      <h2 align="left" valign="middle">
+        <img width="25" height="23" src="https://github.com/user-attachments/assets/29094ab4-4208-43a1-bdc6-bc2c15d7dfbb" align="center">   Sobre mí
+      </h2>
+      <p>
+        Soy desarrolladora Full Stack Junior con un enfoque en la creación de <b>aplicaciones web y móviles completas</b>📱,
+        conectando la lógica del backend con interfaces intuitivas y funcionales.<br>
+        Actualmente estoy fortaleciendo mis habilidades en <b>React, React Native y desarrollo de software moderno</b>✨.<br>
+        <br>Fuera de las pantallas, canalizo mi creatividad y disciplina a través de mi emprendimiento de crochet🧶,
+        <!--una actividad que ha entrenado mi paciencia, mi enfoque y mi capacidad para gestionar proyectos desde
+        la idea hasta la entrega;--> cualidad que también alimento con mi hábito por la lectura📚​. <br>
+        ​​​​🖥️​​Lista para sumarme a un equipo técnico y aportar mi versatilidad, capacidad de organización y ganas de seguir
+        aprendiendo en un equipo de desarrollo​​👍🏽​.
+      </p>
+    </td>
+    <td width="50%" valign="top" valign="middle">
+      <h2 align="left" valign="middle">
+        <img width="28" height="25" src="https://github.com/user-attachments/assets/108eb4a6-3d09-4638-8467-acdffd4933b4" align="center">   Tecnologías favoritas
+      </h2>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=js" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=git" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=materialui" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+      </p>
+      <h2 valign="middle">
+        <img width="25" height="23" src="https://github.com/user-attachments/assets/1fec6509-353a-4036-80b0-d4619d9e2450" align="center">   Conecta conmigo
+      </h2>
+      <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=github" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+      </p>
+    </td>
+  </tr>
 </table>
-```
 
 <!--   
 <p align="center">
@@ -96,16 +80,4 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danitrujillo-dev&show_icons=true&theme=tokyonight&hide_border=true)
--->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
