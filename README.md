@@ -51,12 +51,11 @@
         <img width="28" height="25" src="https://github.com/user-attachments/assets/108eb4a6-3d09-4638-8467-acdffd4933b4" align="center">   Tecnologías favoritas
       </h2>
       <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=react" height="50"/> &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=js" height="50"/> &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=ts" height="50"/> &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=git" height="50"/> &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=materialui" height="50"/> &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/> &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=figma" height="50"/>
       </p>
       <h2 valign="middle">
